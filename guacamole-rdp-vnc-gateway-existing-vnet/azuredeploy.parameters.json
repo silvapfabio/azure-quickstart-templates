@@ -11,8 +11,8 @@
         "adminUsername": {
             "value": "GEN-UNIQUE-10"
         },
-        "sshKeyData": {
-            "value": "GEN-SSH-PUB-KEY"
+        "Password": {
+            "value": "Ak47@1102@@@"
         },
         "existingVirtualNetworkName": {
             "value": "GET-PREREQ-existingVirtualNetworkName"

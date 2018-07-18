@@ -45,7 +45,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_A2_v2",
+      "defaultValue": "Standard F2s_v2",
       "metadata": {
         "description": "Instance size for the Guacamole VM"
       }

@@ -198,8 +198,8 @@
         },
         "storageProfile": {
           "imageReference": {
-            "publisher": "CoreOS",
-            "offer": "CoreOS",
+            "publisher": "UbuntuLTS",
+            "offer": "UbuntuLTS",
             "sku": "[variables('osImageSku')]",
             "version": "latest"
           },
